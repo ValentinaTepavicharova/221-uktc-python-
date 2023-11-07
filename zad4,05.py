@@ -1,4 +1,3 @@
-
 from collections import deque
 clothes = deque([int(i) for i in input().split(" ")])
 capacity = int(input())
