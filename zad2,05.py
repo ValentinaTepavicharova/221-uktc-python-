@@ -1,5 +1,5 @@
 from collections import deque
-print(" hi")
+
 stack=deque()
 
 n=int(input("Enter 1 to put the number at the back of the stack;Enter 2 to delete the number that is on top of the stack;Enter 3 to print the biggest number in the stack;Enter 4 to print the smallest number in the stack;Enter 5 to print the lenght of the stack;: "))
