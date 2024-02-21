@@ -1,0 +1,7 @@
+import math
+def getSquareRoot (number): 
+   return round (math. sqrt (number), 2)
+numbers = [int(num) for num in input("Enter numbers: \n").split(" ")
+
+for number in numbers:
+print (f"Square of {number) = {getSquareRoot (number)}™)
